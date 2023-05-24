@@ -11,11 +11,5 @@
 </p>
 
 <p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="kala" /> </p>
-
-<p align="center">
-  <a href="https://github.com/kala0427">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kala" src="https://github-readme-streak-stats.herokuapp.com/?user=AtosGuru&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
 </p>
 <br/>
