@@ -50,7 +50,8 @@ As an experienced developer, I have a strong background in developing web and mo
   - Rest API    https://www.hackerrank.com/certificates/ae65195ac2b2
   - JavaScript  https://www.hackerrank.com/certificates/1d20387fa74b
   - SQL         https://www.hackerrank.com/certificates/7659741cfb58 
-  - CSS         https://www.hackerrank.com/certificates/ac2d8c948fdb 
+  - CSS         https://www.hackerrank.com/certificates/ac2d8c948fdb
+  - Scrum       https://www.credly.com/badges/0bb4c22c-1003-480e-8475-0b02f7751ab8/public_url
 
 
 
