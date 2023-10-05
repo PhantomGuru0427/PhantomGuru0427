@@ -5,6 +5,7 @@
 <meta name="portfolio"/>
 <meta name="github"/>
 <meta name="full-stack"/>
+<p align="center"><img src="https://images.cointelegraph.com/images/717_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvMzViZmFmODEtNDdiNi00ZTlmLTgyNGMtZmFiZmQ4ZWE2ZjU1LmpwZw==.jpg" /></p>
 
 # Senior Software Engineer
 
