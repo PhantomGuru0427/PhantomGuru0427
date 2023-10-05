@@ -5,7 +5,7 @@
 <meta name="portfolio"/>
 <meta name="github"/>
 <meta name="full-stack"/>
-<p align="center"><img src="https://images.cointelegraph.com/images/717_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvMzViZmFmODEtNDdiNi00ZTlmLTgyNGMtZmFiZmQ4ZWE2ZjU1LmpwZw==.jpg" /></p>
+<p align="center"><img src="https://i0.wp.com/wdm.com.mt/wp-content/uploads/2018/08/cryptocurrency-future-currencies.jpg?w=750&ssl=1" /></p>
 
 # Senior Blockchain Developer
 
