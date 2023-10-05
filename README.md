@@ -7,9 +7,9 @@
 <meta name="full-stack"/>
 <p align="center"><img src="https://images.cointelegraph.com/images/717_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvMzViZmFmODEtNDdiNi00ZTlmLTgyNGMtZmFiZmQ4ZWE2ZjU1LmpwZw==.jpg" /></p>
 
-# Senior Software Engineer
+# Senior Blockchain Developer
 
-As an experienced developer, I have a strong background in developing web and mobile applications using various programming languages and frameworks. I am also well-versed in blockchain technology and have experience building decentralized applications (dApps) using Ethereum and other blockchain platforms.
+As an seasoned blockchain developer, I have a strong background in blockchain development including DeFi, Blockchain Core, MEV trading, etc. I am also well-versed in several blockchain network such as Ethereum, Solana, BSC, Polygon, Polkadot, etc.
 
 ## Skills:
 
@@ -46,11 +46,11 @@ As an experienced developer, I have a strong background in developing web and mo
 
 ## Certifications :
 - Certification from HackerRank
-  - React       https://www.hackerrank.com/certificates/b7e5141a4379
+/*  - React       https://www.hackerrank.com/certificates/b7e5141a4379
   - Angular     https://www.hackerrank.com/certificates/d3440ebe068f
   - Rest API    https://www.hackerrank.com/certificates/ae65195ac2b2
   - JavaScript  https://www.hackerrank.com/certificates/1d20387fa74b
   - SQL         https://www.hackerrank.com/certificates/7659741cfb58 
   - CSS         https://www.hackerrank.com/certificates/ac2d8c948fdb
-
+*/
 
