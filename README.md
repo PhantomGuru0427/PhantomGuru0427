@@ -14,14 +14,17 @@ As an seasoned blockchain developer, I have a strong background in blockchain de
 ## Skills:
 
 - Languages
-  JavaScript, TypeScript, HTML, CSS, Java, Python, Go, Rust, SQL, Dart, GraphQL, Sass, PHP, Solidity
+  Go, Solidity, Rust, Javascript, Typescript, Web3, React
 
-- Frameworks
-  Flutter, Angular, React Native, Django, Laravel,  Redux, Express.js, MUI (Material UI), Tailwind CSS, Next.js, Bootstrap, JSON Web Tokens (JWT), Svelte, NestJS, MUI CSS, Flask, Jest, Electron, Spring MVC, ThreeJS / React-Three-Fiber
+- Network
+  Ethereum, Solana, Polygon, BSC, Polkadot
 
-- Libraries/APIs
-  React, Node.js, Google Maps API, WebRTC, REST APIs, Vue, SendGrid API, Socket.IO, jQuery, GitHub API, Shopify API, D3.js, Camera API, Stripe, Stripe API, Stripe Connect, Web3.js, Chart.js, Google Merchant Center API, AWS Amplify, LeafletJS
+- Tokens
+  ERC20, ERC721, ERC721A, ERC1155, TRC20, ERC777, SPL, Stable coin
 
+- Storage
+  MongoDB, MySQL, Databases, Amazon S3 (AWS S3), Google Cloud, PostgreSQL
+  
 - Tools
   Slack, GitHub, GitLab, Trello, Git, VS Code, SendGrid, Amazon Cognito, Jira, Amazon CloudWatch, Figma, Android Studio, Xcode, Bitbucket, Webpack
 
@@ -30,12 +33,6 @@ As an seasoned blockchain developer, I have a strong background in blockchain de
 
 - Platforms
   Google Cloud Platform (GCP), Firebase, Mailgun, Android, iOS, Shopify, Apache Arrow, Visual Studio Code, Heroku, Mobile, WordPress, Docker, Mapbox, AWS Lambda, BigCommerce, Amazon Web Services (AWS), Ubuntu, Azure, Netlify
-
-- Storage
-  MongoDB, MySQL, Databases, Amazon S3 (AWS S3), Google Cloud, PostgreSQL
-
-- Others
-  Agile Management Tools: Slack, Jirra, Trello, Asana, Scrum
   
   
 ## Personal Skills:	
@@ -43,14 +40,4 @@ As an seasoned blockchain developer, I have a strong background in blockchain de
   - Proactive approach in adapting to dynamic environments
   - Sharp solutions combined with innovative thinking
   - Genuine enthusiasm for technology, and a keenness to acquire new competencies
-
-## Certifications :
-- Certification from HackerRank
-/*  - React       https://www.hackerrank.com/certificates/b7e5141a4379
-  - Angular     https://www.hackerrank.com/certificates/d3440ebe068f
-  - Rest API    https://www.hackerrank.com/certificates/ae65195ac2b2
-  - JavaScript  https://www.hackerrank.com/certificates/1d20387fa74b
-  - SQL         https://www.hackerrank.com/certificates/7659741cfb58 
-  - CSS         https://www.hackerrank.com/certificates/ac2d8c948fdb
-*/
 
