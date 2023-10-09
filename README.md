@@ -42,8 +42,8 @@ As an seasoned full stack developer, I have a strong background in website or co
   - Sharp solutions combined with innovative thinking
   - Genuine enthusiasm for technology, and a keenness to acquire new competencies
 
-HackerRank Certificate
-- React       https://www.hackerrank.com/certificates/b7e5141a4379
+## HackerRank Certificate
+  - React       https://www.hackerrank.com/certificates/b7e5141a4379
   - Angular     https://www.hackerrank.com/certificates/d3440ebe068f
   - Rest API    https://www.hackerrank.com/certificates/ae65195ac2b2
   - JavaScript  https://www.hackerrank.com/certificates/1d20387fa74b
